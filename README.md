@@ -15,9 +15,5 @@ Skills: HTML / CSS / Tailwind CSS / JavaScript  / React.js / Node.js / Express.j
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kibriarobin97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nkedin.com/in/golam-kibria97/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/kibriarobin1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/m._robin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/KibriaRobin1)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibriarobin97)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kibriarobin97&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=kibriarobin97)  
-
+![kibriarobin97's Stats](https://github-readme-stats.vercel.app/api?username=kibriarobin97&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
